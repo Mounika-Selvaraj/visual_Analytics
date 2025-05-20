@@ -1,4 +1,4 @@
-#Open-Ended Experiment 1:
+Open-Ended Experiment 1:
 Visual Insights from Real-World Data
 Title: Discover Patterns and Trends from Real-World Data Using Python Visualization Libraries
 Objective:
@@ -19,7 +19,8 @@ Skills Developed:
 
 
 
-#Open-Ended Experiment 3: Designing a Business Intelligence Dashboard
+Open-Ended Experiment 3:
+Designing a Business Intelligence Dashboard
 Title: Create a Business Intelligence Dashboard for Decision-Making Using Power BI or Tableau
 Objective:
 Students will simulate a real-world scenario where a business (e.g., retail store, e-commerce platform, airline, or education institution) needs a dashboard to make strategic decisions based on data.
